@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenciesTest", "DependenciesTest\DependenciesTest.csproj", "{56C05C71-4AF4-4D4D-8A02-66C36BBF9B18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenciesTest.Tests", "DependenciesTest.Tests\DependenciesTest.Tests.csproj", "{217CD704-A501-4F13-BD8C-63577ABE63EC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
